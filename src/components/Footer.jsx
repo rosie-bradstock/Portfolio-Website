@@ -6,11 +6,20 @@ const Footer = () => {
         <div className="sticky bottom-0 w-full h-[50px] flex justify-between items-center px-4 bg-indigo-950 text-indigo-100 ">
 
             <div>
-                <ul className="hidden md:flex justify-between">
+                <ul className="hidden sm:flex justify-between">
                     <li><a className="hover:underline flex justify-between" href="https://github.com/rosie-bradstock">Github<FaGithub className="ml-3" size={30} /></a></li>
                     <li><a className="hover:underline flex justify-between" href="https://www.linkedin.com/in/rosie-bradstock-421682283/">LinkedIn<FaLinkedin className="ml-3" size={30} /></a></li>
                     <li><a className="hover:underline flex justify-between" href="mailto:rgb1909@gmail.com">Email<HiOutlineMail className="ml-3" size={30} /></a></li>
                     <li><a className="hover:underline flex justify-between" href="https://discordapp.com/users/879088003941822465">Discord<FaDiscord className="ml-3" size={30} /></a></li>
+                </ul>
+            </div>
+
+            <div>
+                <ul className="flex justify-between sm:hidden">
+                    <li><a className="hover:underline flex justify-between" href="https://github.com/rosie-bradstock"><FaGithub className="ml-3" size={30} /></a></li>
+                    <li><a className="hover:underline flex justify-between" href="https://www.linkedin.com/in/rosie-bradstock-421682283/"><FaLinkedin className="ml-3" size={30} /></a></li>
+                    <li><a className="hover:underline flex justify-between" href="mailto:rgb1909@gmail.com"><HiOutlineMail className="ml-3" size={30} /></a></li>
+                    <li><a className="hover:underline flex justify-between" href="https://discordapp.com/users/879088003941822465"><FaDiscord className="ml-3" size={30} /></a></li>
                 </ul>
             </div>
 

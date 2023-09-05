@@ -1,6 +1,5 @@
 import React from 'react'
 import {HiCursorClick} from "react-icons/hi"
-import {Link} from "react-router-dom";
 
 const Home = () => {
   return (

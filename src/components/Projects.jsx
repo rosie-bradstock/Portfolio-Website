@@ -83,7 +83,7 @@ const Projects = () => {
                     <li className="py-2">I also experimented by restricting the options for the new vertex, and thus was able to explore how fractals are generated, and deepen my knowledge of this process. In doing so I was able to create new fractals for the square and pentagon.</li>
                     <li className="py-2">I also added colour in order to make my images more visually pleasing, and did so by varying RGB colour values depending on the coordinates of a pixel in relation to the screen.</li>
                     <li className="py-2">I was able to recreate a number of well known fractals, such as the Sierpinski Triangle.</li>
-                    <li className="py-2">https://github.com/rosie-bradstock/chaos-game</li>
+                    <li className="py-2"><a className="hover:underline" href="https://github.com/rosie-bradstock/chaos-game">https://github.com/rosie-bradstock/chaos-game</a></li>
                   </ul>
               </div>
 

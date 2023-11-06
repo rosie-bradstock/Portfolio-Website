@@ -1,11 +1,14 @@
 import React from 'react'
+import CV from "../components/CV";
+import Footer from "../components/Footer";
 
-const CV = () => {
+const CurriculumVitae = () => {
   return (
     <div>
-        
+      <CV />
+      <Footer />
     </div>
   )
 }
 
-export default CV
+export default CurriculumVitae

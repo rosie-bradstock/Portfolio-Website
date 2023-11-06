@@ -1,11 +1,14 @@
 import React from 'react'
+import PS from "../components/PS";
+import Footer from "../components/Footer";
 
-const PS = () => {
+const PersonalStatement = () => {
   return (
     <div>
-        
+      <PS />
+      <Footer />
     </div>
   )
 }
 
-export default PS
+export default PersonalStatement

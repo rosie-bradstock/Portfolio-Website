@@ -69,30 +69,24 @@ const Projects = () => {
             <div>
 	            <p className="text-4xl font-bold inline border-b-4 border-indigo-500 text-indigo-100">Projects</p>
             </div>
+
             <div className="my-[100px] grid gap-20 grid-cols-2 sm:grid-cols-3">
               <div>
                 <ImageChange />
               </div>
               <div className="col-span-2">
                 <p className="text-indigo-100 font-bold sm:text-lg lg:text-2xl">Chaos Game</p>
-
                   <ul className="text-indigo-300 pt-10 sm:text-sm lg:text-lg list-disc">
-
                     <li className="py-2">Creating a fractal using a regular polygon</li>
-
                     <li className="py-2">This is my first attempt at creating a fractal, as I build up to making more complex examples in the future. I used Python, including Pygame in order to plot the points on a screen. I also included the modules math, random and os</li>
-
                     <li className="py-2">The code creates an array containing the coordinates of the vertices of a regular polygon, then plots points at a fraction of the distance between a previously selected and new vertex. In doing this, a fractal is created. I experimented and researched to find the best way to do this, and made the code for the generation of the shape using knowledge from one of m previous projects</li>
-
                     <li className="py-2">I also experimented by restricting the options for the new vertex, and thus was able to explore how fractals are generated, and deepen my knowledge of this process. In doing so I was able to create new fractals for the square and pentagon.</li>
-
                     <li className="py-2">I also added colour in order to make my images more visually pleasing, and did so by varying RGB colour values depending on the coordinates of a pixel in relation to the screen.</li>
-
                     <li className="py-2">I was able to recreate a number of well known fractals, such as the Sierpinski Triangle.</li>
-
+                    <li className="py-2">https://github.com/rosie-bradstock/chaos-game</li>
                   </ul>
-
               </div>
+
               <div>
                 <img className="shadow-lg hover:shadow-indigo-500 duration-200" src={template_image} alt="Project 2" width="500" height="500" />
               </div>
@@ -100,6 +94,7 @@ const Projects = () => {
                 <p className="text-indigo-100 font-bold sm:text-lg lg:text-2xl">Project 2</p>
                 <p className="text-indigo-300 pt-10 sm:text-sm lg:text-lg">Explanation</p>
               </div>
+
               <div>
                 <img className="shadow-lg hover:shadow-indigo-500 duration-200" src={template_image} alt="Project 3" width="500" height="500" />
               </div>
@@ -107,6 +102,7 @@ const Projects = () => {
                 <p className="text-indigo-100 font-bold sm:text-lg lg:text-2xl">Project 3</p>
                 <p className="text-indigo-300 pt-10 sm:text-sm lg:text-lg">Explanation</p>
               </div>
+
             </div>
         </div>
     </div>

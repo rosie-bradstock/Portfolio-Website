@@ -39,7 +39,7 @@ const Experience = () => {
                 <img className="rounded-lg border-4 border-indigo-500" src={matplotlib_logo} alt="Matplotlib Logo" width="200" height="200" />
               </div>
               <div>
-                <img className="rounded-lg border-4 border-indigo-500" src={template_image} alt="Skill Picture" width="200" height="200" />
+                <img className="rounded-lg border-4 border-indigo-500" src={template_image} alt="Skill" width="200" height="200" />
               </div>
 
               <div className="col-span-5 sm:col-span-9"></div>

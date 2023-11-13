@@ -16,8 +16,6 @@ import fractal_12 from "../assets/fractal_12.png";
 import fractal_13 from "../assets/fractal_13.png";
 import fractal_14 from "../assets/fractal_14.png";
 import fractal_15 from "../assets/fractal_15.png";
-import fractal_16 from "../assets/fractal_16.png";
-import fractal_17 from "../assets/fractal_17.png";
 
 const chaosGameImages = [
   fractal_0,
@@ -36,8 +34,6 @@ const chaosGameImages = [
   fractal_13,
   fractal_14,
   fractal_15,
-  fractal_16,
-  fractal_17
 ];
 
 function ImageChange() {
@@ -57,7 +53,7 @@ function ImageChange() {
 
   return (
     <div>
-      <img className="shadow-2xl hover:shadow-indigo-500 duration-200 border-double border-4 border-indigo-900" src={imageSrc} alt={imageAlt} width="500" height="500" onClick={handleImageClick} />
+      <img className="object-cover aspect-square sm:h-[425px] sm:w-[510px] lg:h-[500px] lg:w-[650px] shadow-2xl hover:shadow-indigo-500 duration-200 border-double border-4 border-indigo-900" src={imageSrc} alt={imageAlt} width="500" height="500" onClick={handleImageClick} />
     </div>
   );
 }

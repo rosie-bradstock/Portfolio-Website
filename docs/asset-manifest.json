@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f78f1ff3.css",
-    "main.js": "/static/js/main.58ea59a5.js",
+    "main.css": "/static/css/main.f7272dcd.css",
+    "main.js": "/static/js/main.76e2b1ce.js",
     "static/media/fractal_11.png": "/static/media/fractal_11.664eb3eefb04e1c9936e.png",
     "static/media/fractal_10.png": "/static/media/fractal_10.16e27fa6b1f944211cef.png",
     "static/media/fractal_13.png": "/static/media/fractal_13.054a424cc16b0278ec59.png",
@@ -19,11 +19,11 @@
     "static/media/fractal_2.png": "/static/media/fractal_2.df773ec81134b0d567ed.png",
     "static/media/fractal_4.png": "/static/media/fractal_4.f23db2a269a2554d4511.png",
     "index.html": "/index.html",
-    "main.f78f1ff3.css.map": "/static/css/main.f78f1ff3.css.map",
-    "main.58ea59a5.js.map": "/static/js/main.58ea59a5.js.map"
+    "main.f7272dcd.css.map": "/static/css/main.f7272dcd.css.map",
+    "main.76e2b1ce.js.map": "/static/js/main.76e2b1ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.f78f1ff3.css",
-    "static/js/main.58ea59a5.js"
+    "static/css/main.f7272dcd.css",
+    "static/js/main.76e2b1ce.js"
   ]
 }

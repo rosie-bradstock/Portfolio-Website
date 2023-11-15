@@ -1,31 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.c331971f.css",
-    "main.js": "/static/js/main.89ece9b7.js",
-    "static/media/fractal_11.png": "/static/media/fractal_11.c95dc76b5e52b1c71a7c.png",
-    "static/media/fractal_7.png": "/static/media/fractal_7.4dc53980b221c97e0fa0.png",
-    "static/media/fractal_17.png": "/static/media/fractal_17.b6b64cc7642b24f43c73.png",
+    "main.css": "/static/css/main.f78f1ff3.css",
+    "main.js": "/static/js/main.58ea59a5.js",
+    "static/media/fractal_11.png": "/static/media/fractal_11.664eb3eefb04e1c9936e.png",
+    "static/media/fractal_10.png": "/static/media/fractal_10.16e27fa6b1f944211cef.png",
+    "static/media/fractal_13.png": "/static/media/fractal_13.054a424cc16b0278ec59.png",
+    "static/media/fractal_12.png": "/static/media/fractal_12.ec5ed02adf62f7bbf0a1.png",
+    "static/media/fractal_7.png": "/static/media/fractal_7.71b47639c5671a8a9b39.png",
+    "static/media/fractal_8.png": "/static/media/fractal_8.9b723907d61beefb361d.png",
+    "static/media/fractal_6.png": "/static/media/fractal_6.3118253c247c1e346de1.png",
+    "static/media/fractal_1.png": "/static/media/fractal_1.2187bcba6c348a5085c2.png",
+    "static/media/fractal_9.png": "/static/media/fractal_9.eb91cfca4cf4cdf3d09d.png",
     "static/media/fractal_15.png": "/static/media/fractal_15.92d92a09db34249b6e6a.png",
-    "static/media/fractal_6.png": "/static/media/fractal_6.8134acbd44610020ebbf.png",
-    "static/media/fractal_13.png": "/static/media/fractal_13.91690161d41368e17c19.png",
-    "static/media/fractal_9.png": "/static/media/fractal_9.52ea58ad7c079e827f0c.png",
-    "static/media/fractal_10.png": "/static/media/fractal_10.b117f80ad765f0dfe8a3.png",
-    "static/media/fractal_1.png": "/static/media/fractal_1.30c401736430169269d9.png",
-    "static/media/fractal_16.png": "/static/media/fractal_16.a2a7ab219fc4c9fdbf70.png",
-    "static/media/fractal_5.png": "/static/media/fractal_5.e1b9871c2184cede18d3.png",
-    "static/media/fractal_14.png": "/static/media/fractal_14.b062036691fcfe34ae2d.png",
-    "static/media/fractal_12.png": "/static/media/fractal_12.c8a1da4242bbf096d466.png",
-    "static/media/fractal_3.png": "/static/media/fractal_3.b395c8c602f0df30c127.png",
-    "static/media/fractal_4.png": "/static/media/fractal_4.f2802a94718bfdef0e3c.png",
-    "static/media/fractal_8.png": "/static/media/fractal_8.301db517c6c085031cd2.png",
-    "static/media/fractal_0.png": "/static/media/fractal_0.f1a54341d059d068b9b0.png",
-    "static/media/fractal_2.png": "/static/media/fractal_2.9293b4bfabb3a0a9525b.png",
+    "static/media/fractal_0.png": "/static/media/fractal_0.c51e2a0c5b220c6d30ac.png",
+    "static/media/fractal_3.png": "/static/media/fractal_3.c0eb59c505604a8dc767.png",
+    "static/media/fractal_5.png": "/static/media/fractal_5.9bdf8e3a0d2b986c2892.png",
+    "static/media/fractal_14.png": "/static/media/fractal_14.28761b3ff8d56f2975d5.png",
+    "static/media/fractal_2.png": "/static/media/fractal_2.df773ec81134b0d567ed.png",
+    "static/media/fractal_4.png": "/static/media/fractal_4.f23db2a269a2554d4511.png",
     "index.html": "/index.html",
-    "main.c331971f.css.map": "/static/css/main.c331971f.css.map",
-    "main.89ece9b7.js.map": "/static/js/main.89ece9b7.js.map"
+    "main.f78f1ff3.css.map": "/static/css/main.f78f1ff3.css.map",
+    "main.58ea59a5.js.map": "/static/js/main.58ea59a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.c331971f.css",
-    "static/js/main.89ece9b7.js"
+    "static/css/main.f78f1ff3.css",
+    "static/js/main.58ea59a5.js"
   ]
 }

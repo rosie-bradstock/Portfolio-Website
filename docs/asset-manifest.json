@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c04d374c.css",
-    "main.js": "/static/js/main.7607a8e7.js",
+    "main.css": "/static/css/main.f5c08958.css",
+    "main.js": "/static/js/main.9df0900e.js",
     "static/media/mandelbrot.png": "/static/media/mandelbrot.bc85f5c8e9254c585334.png",
     "static/media/fractal_11.png": "/static/media/fractal_11.664eb3eefb04e1c9936e.png",
     "static/media/fractal_10.png": "/static/media/fractal_10.16e27fa6b1f944211cef.png",
@@ -22,11 +22,11 @@
     "static/media/fractal_4.png": "/static/media/fractal_4.f23db2a269a2554d4511.png",
     "static/media/website_code.PNG": "/static/media/website_code.d9d35cd378cceba969df.PNG",
     "index.html": "/index.html",
-    "main.c04d374c.css.map": "/static/css/main.c04d374c.css.map",
-    "main.7607a8e7.js.map": "/static/js/main.7607a8e7.js.map"
+    "main.f5c08958.css.map": "/static/css/main.f5c08958.css.map",
+    "main.9df0900e.js.map": "/static/js/main.9df0900e.js.map"
   },
   "entrypoints": [
-    "static/css/main.c04d374c.css",
-    "static/js/main.7607a8e7.js"
+    "static/css/main.f5c08958.css",
+    "static/js/main.9df0900e.js"
   ]
 }

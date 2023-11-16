@@ -1,5 +1,4 @@
 import React from 'react'
-import template_image from "../assets/template_image.png";
 import python_logo from "../assets/python_logo.png";
 import pygame_logo from "../assets/pygame_logo.png";
 import matplotlib_logo from "../assets/matplotlib_logo.png";
@@ -7,6 +6,7 @@ import react_logo from "../assets/react_logo.png";
 import tailwind_logo from "../assets/tailwind_logo.png";
 import javascript_logo from "../assets/javascript_logo.png";
 import html_logo from "../assets/html_logo.png";
+import cs_logo from "../assets/cs_logo.png";
 
 const Experience = () => {
   return (
@@ -39,7 +39,7 @@ const Experience = () => {
                 <img className="rounded-lg border-4 border-indigo-500" src={matplotlib_logo} alt="Matplotlib Logo" width="200" height="200" />
               </div>
               <div>
-                <img className="rounded-lg border-4 border-indigo-500" src={template_image} alt="Skill" width="200" height="200" />
+                <img className="rounded-lg border-4 border-indigo-500" src={cs_logo} alt="C# Logo" width="200" height="200" />
               </div>
 
               <div className="col-span-5 sm:col-span-9"></div>

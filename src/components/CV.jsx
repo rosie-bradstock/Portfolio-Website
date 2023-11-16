@@ -2,7 +2,7 @@ import React from 'react'
 
 const CV = () => {
   return (
-    <div name = "cv" className="w-full h-screen bg-gradient-to-r from-indigo-950 to-blue-950">
+    <div name = "cv" className="w-full h-[3000px] bg-gradient-to-r from-indigo-950 to-blue-950">
       <div className="mx-[30px] px-4 flex flex-col h-full py-10">
         <div className="col-span-4">
           <p className="font-serif text-indigo-100 border-b-2 border-indigo-400 sm:text-lg md:text-xl lg:text-2xl">Rosie Bradstock CV</p>

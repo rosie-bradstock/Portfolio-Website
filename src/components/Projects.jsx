@@ -66,7 +66,7 @@ function ImageChange() {
 
 const Projects = () => {
   return (
-    <div name = "projects" className="w-full h-screen bg-gradient-to-r from-indigo-950 to-blue-950 py-[1250px]">
+    <div name = "projects" className="w-full lg:h-screen sm:h-[2000px] bg-gradient-to-r from-indigo-950 to-blue-950 py-[1250px]">
         <div className="mx-[30px] px-4 flex flex-col justify-center h-full sm:mx-[100px]">
             <div>
 	            <p className="text-4xl font-bold inline border-b-4 border-indigo-500 text-indigo-100">Projects</p>

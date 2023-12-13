@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5c08958.css",
+    "main.js": "/static/js/main.4f132122.js",
+    "static/media/mandelbrot.png": "/static/media/mandelbrot.bc85f5c8e9254c585334.png",
+    "static/media/fractal_11.png": "/static/media/fractal_11.664eb3eefb04e1c9936e.png",
+    "static/media/fractal_10.png": "/static/media/fractal_10.16e27fa6b1f944211cef.png",
+    "static/media/fractal_13.png": "/static/media/fractal_13.054a424cc16b0278ec59.png",
+    "static/media/cs_logo.png": "/static/media/cs_logo.bd1e8c8aeaf3fdaf892e.png",
+    "static/media/fractal_12.png": "/static/media/fractal_12.ec5ed02adf62f7bbf0a1.png",
+    "static/media/fractal_7.png": "/static/media/fractal_7.71b47639c5671a8a9b39.png",
+    "static/media/fractal_8.png": "/static/media/fractal_8.9b723907d61beefb361d.png",
+    "static/media/fractal_6.png": "/static/media/fractal_6.3118253c247c1e346de1.png",
+    "static/media/fractal_1.png": "/static/media/fractal_1.2187bcba6c348a5085c2.png",
+    "static/media/fractal_9.png": "/static/media/fractal_9.eb91cfca4cf4cdf3d09d.png",
+    "static/media/fractal_15.png": "/static/media/fractal_15.92d92a09db34249b6e6a.png",
+    "static/media/fractal_0.png": "/static/media/fractal_0.c51e2a0c5b220c6d30ac.png",
+    "static/media/fractal_3.png": "/static/media/fractal_3.c0eb59c505604a8dc767.png",
+    "static/media/fractal_5.png": "/static/media/fractal_5.9bdf8e3a0d2b986c2892.png",
+    "static/media/fractal_14.png": "/static/media/fractal_14.28761b3ff8d56f2975d5.png",
+    "static/media/fractal_2.png": "/static/media/fractal_2.df773ec81134b0d567ed.png",
+    "static/media/fractal_4.png": "/static/media/fractal_4.f23db2a269a2554d4511.png",
+    "static/media/website_code.PNG": "/static/media/website_code.d9d35cd378cceba969df.PNG",
+    "index.html": "/index.html",
+    "main.f5c08958.css.map": "/static/css/main.f5c08958.css.map",
+    "main.4f132122.js.map": "/static/js/main.4f132122.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5c08958.css",
+    "static/js/main.4f132122.js"
+  ]
+}

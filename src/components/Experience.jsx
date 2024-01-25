@@ -10,7 +10,7 @@ import cs_logo from "../assets/cs_logo.png";
 
 const Experience = () => {
   return (
-    <div name = "experience" className="w-full lg:h-screen sm:h-[1500px] bg-gradient-to-r from-indigo-950 to-blue-950">
+    <div name = "experience" className="w-full h-dvh bg-gradient-to-r from-indigo-950 to-blue-950">
         <div className="mx-[30px] px-4 flex flex-col justify-center h-full sm:mx-[100px]">
             <div>
 	            <p className="text-4xl font-bold inline border-b-4 border-indigo-500 text-indigo-100"> Experience</p>

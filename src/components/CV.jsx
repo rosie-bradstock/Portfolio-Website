@@ -2,7 +2,7 @@ import React from 'react'
 
 const CV = () => {
   return (
-    <div name = "cv" className="w-full h-[3000px] bg-gradient-to-r from-indigo-950 to-blue-950">
+    <div name = "cv" className="w-full h-dvh bg-gradient-to-r from-indigo-950 to-blue-950">
       <div className="mx-[30px] px-4 flex flex-col h-full py-10">
         <div className="col-span-4">
           <p className="font-serif text-indigo-100 border-b-2 border-indigo-400 sm:text-lg md:text-xl lg:text-2xl">Rosie Bradstock CV</p>
@@ -30,7 +30,7 @@ const CV = () => {
           </div>
           <p className="font-serif text-indigo-100 border-b-2 border-indigo-400 sm:text-lg md:text-xl lg:text-2xl">Employment History</p>
           <div className="text-indigo-200 sm:text-sm md:text-md lg:text-lg py-2">
-            <p>I worked zero hours at Horton’s of Poole from June 2022 until around January 2023. Here I contributed to the shop by cooking food, preparing drinks and serving customers, as well as by cleaning, closing and opening the shop and checking inventory. I decided to seek new work due to the inconsistency of the position. In April I received new employment at WHSmith’s, where I currently work as a Sales Assistant. This position involves helping customers, taking stock, using the till, putting out and organising merchandise, and assisting in other duties to aid my coworkers.</p>
+            <p>I worked zero hours at a small sandwich shop from June 2022 until around January 2023. Here I contributed to the shop by cooking food, preparing drinks and serving customers, as well as by cleaning, closing and opening the shop and checking inventory. I decided to seek new work due to the inconsistency of the position. In April I received new employment at WHSmith’s, where I currently work as a Sales Assistant. This position involves helping customers, taking stock, using the till, putting out and organising merchandise, and assisting in other duties to aid my coworkers.</p>
           </div>
           <p className="font-serif text-indigo-100 border-b-2 border-indigo-400 sm:text-lg md:text-xl lg:text-2xl">Hobbies and Interests</p>
           <div className="text-indigo-200 sm:text-sm md:text-md lg:text-lg py-2">

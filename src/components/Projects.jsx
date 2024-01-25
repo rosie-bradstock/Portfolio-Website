@@ -64,7 +64,7 @@ function ImageChange() {
 
 const Projects = () => {
   return (
-    <div name = "projects" className="w-full lg:h-screen sm:h-[2000px] bg-gradient-to-r from-indigo-950 to-blue-950 py-[1250px]">
+    <div name = "projects" className="w-full h-dvh bg-gradient-to-r from-indigo-950 to-blue-950 py-[100px]">
         <div className="mx-[30px] px-4 flex flex-col justify-center h-full sm:mx-[100px]">
             <div>
 	            <p className="text-4xl font-bold inline border-b-4 border-indigo-500 text-indigo-100">Projects</p>
@@ -117,7 +117,6 @@ const Projects = () => {
                   <li className="py-2">I learned skills surrounding using cmd, npm and git</li>
                   <li className="py-2">I hope to keep consistantly updating this website in the future</li>
                   <li className="py-2"><a className="hover:underline" href="https://github.com/rosie-bradstock/portfolio-website">https://github.com/rosie-bradstock/portfolio-website</a></li>
-
                 </ul>
               </div>
 

@@ -13,8 +13,8 @@ const Home = () => {
           <Link to="/cv">
             <button className="text-indigo-100 border-2 px-6 py-3 my-2 flex items-center hover:bg-indigo-400 hover:border-indigo-400">CV<HiCursorClick className="ml-3" /></button>
           </Link>
-          <Link to="/ps">
-            <button className="text-indigo-100 border-2 px-6 py-3 my-2 flex items-center hover:bg-indigo-400 hover:border-indigo-400">Personal Statement<HiCursorClick className="ml-3" /></button>
+          <Link to="/Blog">
+            <button className="text-indigo-100 border-2 px-6 py-3 my-2 flex items-center hover:bg-indigo-400 hover:border-indigo-400">Blog<HiCursorClick className="ml-3" /></button>
           </Link>
         </div>
       </div>

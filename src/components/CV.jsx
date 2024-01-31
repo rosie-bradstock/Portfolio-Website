@@ -39,7 +39,6 @@ const CV = () => {
             <ul className = "list-disc py-2">
               <li>3 months of volunteering for Bronze Duke of Edinburgh Award, as a sports marshal</li>
               <li>Charity work for NCS, where I raised £350 for Dementia UK, as well as participating in other fundraising activities</li>
-              <li>Charity work for NCS, where I raised £350 for Dementia UK, as well as participating in other fundraising activities</li>
               <li>Partook in a year of volunteering as a Teaching Assistant at a local primary school</li>
             </ul>
           </div>

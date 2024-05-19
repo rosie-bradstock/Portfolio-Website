@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.89c1a28b.css",
-    "main.js": "/static/js/main.9bfff1e1.js",
+    "main.js": "/static/js/main.054d997a.js",
     "static/media/confused_man.jpg": "/static/media/confused_man.973e3ecd6a666c5ad811.jpg",
     "static/media/fractal_11.png": "/static/media/fractal_11.664eb3eefb04e1c9936e.png",
     "static/media/fractal_10.png": "/static/media/fractal_10.16e27fa6b1f944211cef.png",
@@ -24,10 +24,10 @@
     "static/media/mandelbrot.png": "/static/media/mandelbrot.4abdcec4a3c6610a2939.png",
     "index.html": "/index.html",
     "main.89c1a28b.css.map": "/static/css/main.89c1a28b.css.map",
-    "main.9bfff1e1.js.map": "/static/js/main.9bfff1e1.js.map"
+    "main.054d997a.js.map": "/static/js/main.054d997a.js.map"
   },
   "entrypoints": [
     "static/css/main.89c1a28b.css",
-    "static/js/main.9bfff1e1.js"
+    "static/js/main.054d997a.js"
   ]
 }

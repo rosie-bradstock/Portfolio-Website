@@ -18,8 +18,10 @@ import fractal_14 from "../assets/fractal_14.png";
 import fractal_15 from "../assets/fractal_15.png";
 
 import mandelbrot from "../assets/mandelbrot.png";
-
 import website_code from "../assets/website_code.PNG";
+import bouncing_ball from "../assets/bouncing_ball.png";
+
+
 
 const chaosGameImages = [
   fractal_0,
@@ -117,6 +119,19 @@ const Projects = () => {
                   <li className="py-2">I learned skills surrounding using cmd, npm and git</li>
                   <li className="py-2">I hope to keep consistantly updating this website in the future</li>
                   <li className="py-2"><a className="hover:underline" href="https://github.com/rosie-bradstock/portfolio-website">https://github.com/rosie-bradstock/portfolio-website</a></li>
+                </ul>
+              </div>
+
+              <div>
+                <img className="shadow-lg hover:shadow-indigo-500 duration-200 border-double border-4 border-indigo-900" src={bouncing_ball} alt="Bouncing Ball" width="500" height="500" />
+              </div>
+              <div className="col-span-2">
+                <p className="text-indigo-100 font-bold sm:text-lg lg:text-2xl">Bouncing Ball</p>
+                <ul className="text-indigo-300 pt-10 sm:text-sm lg:text-lg list-disc">
+                  <li className="py-2">I am using python with pygame, as I want to challenge myself more in creating the movement of the ball more than with my coding. Using a language that I am already familiar with will therefore speed this up significantly.</li>
+                  <li className="py-2">I am going to try to get as far as possible without any outside help - I moreso want to see what I can achieve with only my own knowledge at this point.</li>
+                  <li className="py-2">I want to see how realistic I can make the movement of the ball feel, rather than it being completley accurate to real life</li>
+                  <li className="py-2"><a className="hover:underline" href="https://github.com/rosie-bradstock/bouncing-ball">https://github.com/rosie-bradstock/bouncing-ball</a></li>
                 </ul>
               </div>
 
